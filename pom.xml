@@ -11,7 +11,7 @@
 
     <name>PistonChunkLimiter</name>
 
-    <description>Limits amount of blocks like shilkers and chests in a chunk.</description>
+    <description>Limits amount of blocks like shulkers and chests in a chunk.</description>
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
