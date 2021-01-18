@@ -1,0 +1,4 @@
+name: PistonChunkLimiter
+version: ${project.version}
+main: net.pistonmaster.pistonchunklimiter.PistonChunkLimiter
+description: Limits amount of blocks like shilkers and chests in a chunk.
